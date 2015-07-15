@@ -1,0 +1,29 @@
+{
+  "name": "spf-ip",
+  "version": "1.0.0",
+  "description": "Parse IP addresses from SPF records.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mailcharts/spf-ip.git"
+  },
+  "keywords": [
+    "spf",
+    "email",
+    "marketing",
+    "dns",
+    "dns"
+  ],
+  "author": "Tom Buchok <tom@buchok.com> (http://buchok.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailcharts/spf-ip/issues"
+  },
+  "homepage": "https://github.com/mailcharts/spf-ip"
+}
