@@ -1,0 +1,1 @@
+[ 'v=spf1 a mx ip4:174.47.62.0/28 ip4:165.193.47.24 ip4:64.58.151.118 ip4:165.193.47.4 ip4:23.23.239.161 ip4:166.90.77.123 ip4:206.128.152.208 ip4:64.15.184.239 ip4:208.85.54.223 ip4:74.112.64.38 ip4:74.112.65.118 ip4:208.85.54.226 include:sid.silverpop.com include:sf.silverpop.com include:_spf.salesforce.com -all' ]

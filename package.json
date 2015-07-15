@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_ENV=test tap --strict test/index.test.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/mailcharts/spf-ip/issues"
   },
-  "homepage": "https://github.com/mailcharts/spf-ip"
+  "homepage": "https://github.com/mailcharts/spf-ip",
+  "devDependencies": {
+    "tap": "^1.3.1"
+  },
+  "dependencies": {
+    "cidr-range": "^1.0.3"
+  }
 }
